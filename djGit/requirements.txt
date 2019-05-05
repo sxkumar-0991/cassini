@@ -1,0 +1,13 @@
+Django == 1.11.4
+djangorestframework == 3.6.4
+djangorestframework-xml == 1.4.0
+dnspython == 1.15.0
+decorator == 4.1.2
+django-auditlog == 0.4.5
+django-composite-foreignkey == 1.0.1
+django-filter == 1.0.4
+django-jenkins == 0.110.0
+django-linter == 0.7
+pytz == 2017.2
+PyYAML == 5.1
+pyzmq == 18.0.1
